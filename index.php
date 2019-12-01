@@ -15,15 +15,15 @@
 <div id="particles-js">
     <div class="main-container">
         <div class="topheader">
-            <span class="announcements">CodeDrop shop, Your all in one Fortnite Exclusive shop</span>
+            <span class="announcements">Join the CodeDrop Discord today! <a class="discord" href="https://discordapp.com/invite/codedrop" target="_blank">Click here</a></span>
         </div>
         <div class="main-header">
             <div class="main-content">
-                <img class="header-img" src="images/cdlogo.png" width="120" height="120">
-                <h2 class="header-title">CodeDrop Shop</h2>
+                <img class="header-img" src="images/christmastlogo.png" width="120" height="120">
+                <img class="header-imgtext" src="images/logotext.png" width="300" height="60">
             </div>
         </div>
-        <div class="ui container" >
+        <div class="ui container">
             <div class="ui four column grid">
                 <div class="row">
                     <div class="column" style="margin-bottom: 25px;">
@@ -174,7 +174,12 @@
                 </div>
             </div>
         </div>
-
+        <br>
+        <br>
+        <br>
+        <footer>
+            <h2 class="footer-copyright">Made by @RediceFN ©</h2>
+        </footer>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
