@@ -44,12 +44,14 @@ body {
 }
 
 .header-img {
-    margin-top: 4px;
+    margin-top: -20px;
 }
 
 .header-title {
     color: #e1e1e1;
-    margin-left: 15px;
+    margin-left: 1px;
+    text-align: center;
+    padding-right: 44px;
 }
 
 .header {

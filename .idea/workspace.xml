@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c743582-2449-4ac2-99aa-3f3ffc1f6176" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/particles.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bigtimedabv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +73,8 @@
       <workItem from="1574330749829" duration="2334000" />
       <workItem from="1574357460145" duration="3052000" />
       <workItem from="1574361375419" duration="361000" />
-      <workItem from="1575212573003" duration="15541000" />
+      <workItem from="1575212573003" duration="15908000" />
+      <workItem from="1575233070700" duration="955000" />
     </task>
     <servers />
   </component>
@@ -88,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
