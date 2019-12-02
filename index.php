@@ -16,8 +16,8 @@
 
     <div class="main-header">
         <div class="main-content">
-            <img class="header-img" src="images/christmastlogo.png" width="120" height="120">
-            <img class="header-imgtext" src="images/logotext.png" width="300" height="60">
+            <a href="index.php"><img class="header-img" onclick="" src="images/christmastlogo.png" width="120" height="120"></a>
+            <a href="index.php"><img class="header-imgtext" src="images/logotext.png" width="300" height="60"></a>
         </div>
     </div>
     <div class="main-container">
