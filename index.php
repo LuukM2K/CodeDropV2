@@ -13,15 +13,21 @@
 </head>
 <body>
 <div id="particles-js">
+
+    <div class="main-header">
+        <div class="main-content">
+            <img class="header-img" src="images/christmastlogo.png" width="120" height="120">
+            <img class="header-imgtext" src="images/logotext.png" width="300" height="60">
+        </div>
+    </div>
     <div class="main-container">
         <div class="topheader">
-            <span class="announcements">Join the CodeDrop Discord today! <a class="discord" href="https://discordapp.com/invite/codedrop" target="_blank">Click here</a></span>
-        </div>
-        <div class="main-header">
-            <div class="main-content">
-                <img class="header-img" src="images/christmastlogo.png" width="120" height="120">
-                <img class="header-imgtext" src="images/logotext.png" width="300" height="60">
-            </div>
+            <ul class="menu">
+                <li>Other products </li>
+                <li>FAQ </li>
+                <li>Socials </li>
+                <li>Contact  </li>
+            </ul>
         </div>
         <div class="ui container">
             <div class="ui four column grid">
@@ -178,7 +184,7 @@
         <br>
         <br>
         <footer>
-            <h2 class="footer-copyright">Made by @RediceFN ©</h2>
+            <h2 class="footer-copyright"> © Made by @NotRedice & @NotSaft</h2>
         </footer>
     </div>
 
