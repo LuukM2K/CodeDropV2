@@ -24,7 +24,7 @@
         <div class="topheader">
             <ul class="menu">
                 <li>Other products </li>
-                <li>FAQ </li>
+                <li><a href="faq.php">FAQ</a></li>
                 <li>Socials </li>
                 <li>Contact  </li>
             </ul>

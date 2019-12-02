@@ -1,0 +1,54 @@
+.accordion {
+	background-color: #1e1e1e;
+	color: #FF4181;
+	cursor: pointer;
+	padding: 39px;
+	width: 60%;
+	border: none;
+	text-align: left;
+	outline: none;
+	font-size: 15px;
+	transition: .4s ease-in-out;
+
+}
+
+.active, .accordion:hover {
+	background-color: #121212;
+}
+
+.accordion:after {
+	content: '\002B';
+	color: #FF4181;
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
+
+}
+
+.active:after {
+
+	content: "\2212";
+}
+
+.panel {
+	padding: 0 18px;
+	background-color: #252527;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+	/*margin-bottom: 50px;*/
+	color: #e1e1e1;
+}
+
+.faq {
+	margin-left: 12%;
+	margin-right: 12%;
+
+}
+
+.faq-title {
+	text-align: center;
+	color: #e1e1e1;
+	font-size: 60px;
+}
+
