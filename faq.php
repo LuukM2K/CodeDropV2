@@ -6,7 +6,6 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css" rel="stylesheet"
           id="bootstrap-css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script src="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link href="css/accordion.css" rel="stylesheet">
@@ -17,186 +16,92 @@
 <div id="particles-js">
     <div class="main-header">
         <div class="main-content">
-            <a href="index.php"><img class="header-img" onclick="" src="images/christmastlogo.png" width="120" height="120"></a>
+            <a href="index.php"><img class="header-img" onclick="" src="images/christmastlogo.png" width="120"
+                                     height="120"></a>
             <a href="index.php"><img class="header-imgtext" src="images/logotext.png" width="300" height="60"></a>
         </div>
     </div>
     <div class="main-container">
         <div class="topheader">
             <ul class="menu">
-                <li>Other products</li>
+                <li><a href="index.php">Products</a></li>
                 <li><a href="faq.php">FAQ</a></li>
                 <li>Socials</li>
                 <li>Contact</li>
+                <li><a style="color: #7289da" target="_blank" href="https://discord.gg/codedrop">Discord</a></li>
             </ul>
         </div>
+        <h1 class="faq-title">FAQ</h1>
 
-        <section class="faq-section">
-            <div class="container">
-                <div class="row">
-                    <!-- ***** FAQ Start ***** -->
-                    <div class="col-md-6 offset-md-3">
-
-                        <div class="faq-title text-center pb-3">
-                            <h2>FAQ</h2>
-                        </div>
-                    </div>
-                    <div class="col-md-6 offset-md-3">
-                        <div class="faq" id="accordion">
-                            <div class="card">
-                                <div class="card-header" id="faqHeading-1">
-                                    <div class="mb-0">
-                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1"
-                                            data-aria-expanded="true" data-aria-controls="faqCollapse-1">
-                                            <span class="badge">1</span>What is Lorem Ipsum?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div id="faqCollapse-1" class="collapse" aria-labelledby="faqHeading-1"
-                                     data-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                            Lorem Ipsum has been the industry's standard dummy text ever since the
-                                            1500s, when an unknown printer took a galley of type and scrambled it to
-                                            make a type specimen book. </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="faqHeading-2">
-                                    <div class="mb-0">
-                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-2"
-                                            data-aria-expanded="false" data-aria-controls="faqCollapse-2">
-                                            <span class="badge">2</span> Where does it come from?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div id="faqCollapse-2" class="collapse" aria-labelledby="faqHeading-2"
-                                     data-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has
-                                            roots in a piece of classical Latin literature from 45 BC, making it over
-                                            2000 years old.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="faqHeading-3">
-                                    <div class="mb-0">
-                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-3"
-                                            data-aria-expanded="false" data-aria-controls="faqCollapse-3">
-                                            <span class="badge">3</span>Why do we use it?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div id="faqCollapse-3" class="collapse" aria-labelledby="faqHeading-3"
-                                     data-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>It is a long established fact that a reader will be distracted by the
-                                            readable content of a page when looking at its layout. The point of using
-                                            Lorem Ipsum is that it has a more-or-less normal distribution of letters, as
-                                            opposed to using 'Content here, content here.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="faqHeading-4">
-                                    <div class="mb-0">
-                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-4"
-                                            data-aria-expanded="false" data-aria-controls="faqCollapse-4">
-                                            <span class="badge">4</span> Where can I get some?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div id="faqCollapse-4" class="collapse" aria-labelledby="faqHeading-4"
-                                     data-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the
-                                            majority have suffered alteration in some form, by injected humour, or
-                                            randomised words which don't look even slightly believable.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="faqHeading-5">
-                                    <div class="mb-0">
-                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-5"
-                                            data-aria-expanded="false" data-aria-controls="faqCollapse-5">
-                                            <span class="badge">5</span> What is Lorem Ipsum?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div id="faqCollapse-5" class="collapse" aria-labelledby="faqHeading-5"
-                                     data-parent="#accordion">
-                                    <div class="card-body">
-                                        <p> It has survived not only five centuries, but also the leap into electronic
-                                            typesetting, remaining essentially unchanged. It was popularised in the
-                                            1960s with the release of Letraset sheets containing</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="faqHeading-6">
-                                    <div class="mb-0">
-                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-6"
-                                            data-aria-expanded="false" data-aria-controls="faqCollapse-6">
-                                            <span class="badge">6</span> Where does it come from?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div id="faqCollapse-6" class="collapse" aria-labelledby="faqHeading-6"
-                                     data-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below
-                                            for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum
-                                            et Malorum" by Cicero are also reproduced in their exact original form,
-                                            accompanied by English versions from the 1914 translation by H. Rackham.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="faqHeading-7">
-                                    <div class="mb-0">
-                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-7"
-                                            data-aria-expanded="false" data-aria-controls="faqCollapse-7">
-                                            <span class="badge">7</span> Why do we use it?
-                                        </h5>
-                                    </div>
-                                </div>
-                                <div id="faqCollapse-7" class="collapse" aria-labelledby="faqHeading-7"
-                                     data-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>Many desktop publishing packages and web page editors now use Lorem Ipsum as
-                                            their default model text, and a search for 'lorem ipsum' will uncover many
-                                            web sites still in their infancy. Various versions have evolved over the
-                                            years, sometimes by accident, sometimes on purpose (injected humour and the
-                                            like).</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+        <div class="container">
+            <!-- Accordion Starts-->
+            <div class="acc">
+                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <div class="content">
+                    <div class="content-inner">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
+                            galley of type and scrambled it to make a type specimen book.</p>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+        <div class="container">
+            <!-- Accordion Starts-->
+            <div class="acc">
+                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <div class="content">
+                    <div class="content-inner">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
+                            galley of type and scrambled it to make a type specimen book.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <!-- Accordion Starts-->
+            <div class="acc">
+                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <div class="content">
+                    <div class="content-inner">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
+                            galley of type and scrambled it to make a type specimen book.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <!-- Accordion Starts-->
+            <div class="acc">
+                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <div class="content">
+                    <div class="content-inner">
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
+                            galley of type and scrambled it to make a type specimen book.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!--        <script src="https://infograph.venngage.com/js/embed/v1/embed.js" data-vg-id="9liFlDkT570" data-title="" data-w="1200" data-h="700" style="opacity: 10%" data-multipage="true"></script>-->
 
-        <!--<script src="assets/accordion.js" rel="script"></script>-->
-        <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<script src="https://shoppy.gg/api/embed.js"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
+    </div>
+    <!--<script src="assets/accordion.js" rel="script"></script>-->
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="https://shoppy.gg/api/embed.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script>
+        particlesJS.load('particles-js', 'assets/particles.json', function () {
+        });
 
-<script>
-    particlesJS.load('particles-js', 'assets/particles.json', function () {
-        console.log('callback - particles.js config loaded');
-    });
-
-</script>
-<?php
+    </script>
+    <script src="assets/main.js" rel="script"></script>
+</div>
+</body><?php

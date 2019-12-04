@@ -1,12 +1,13 @@
 body {
     margin: 0;
-    font-family: roboto;
+    padding: 0;
+    font-family: roboto, serif;
     overflow-x: hidden;
 }
 
 #particles-js {
     background: #121212;
-    height: 150vh;
+    height: 600vh;
     width: 100vw;
 }
 
@@ -20,7 +21,6 @@ body {
     width: 100vw;
     background-color: #1e1e1e;
     border-bottom: 1px solid #252527;
-
     margin-bottom: 25px;
 }
 
@@ -35,6 +35,16 @@ ul {
 .menu {
     display: flex;
     justify-content: space-evenly;
+}
+
+li {
+    font-size: 16px;
+}
+
+a:hover {
+    text-underline: none;
+    color: #FF4181;
+    transition: .3s ease-in-out;
 }
 
 .announcements {
@@ -70,10 +80,27 @@ ul {
     color: white;
 }
 
+a {
+    color: #e1e1e1;
+}
+
+/* Unvisited link  */
+a:visited {
+    color: #e1e1e1;
+}
+
+/* Visited link    */
+a:hover {
+    color: #e1e1e1;
+}
+
+/* Mouse over link */
+a:active {
+    color: #e1e1e1;
+}
+
 
 .fluid button {
-    background-color: #FF4181;
-!important;
     color: #e1e1e1;
     width: 50%;
     font-size: 99px;
@@ -99,4 +126,25 @@ footer {
 
 .discord {
     cursor: pointer;
+}
+
+.countdown-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border-bottom: 1px solid #FF4181;
+    margin-bottom: 15px;
+
+}
+
+.countdown-title {
+    color: #e1e1e1;
+    font-weight: 900;
+     margin-right: 10px;
+}
+
+#countdown {
+    color: #FF4181;
+    font-size: 24px;
+    font-weight: 700;
 }
