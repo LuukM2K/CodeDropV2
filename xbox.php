@@ -30,9 +30,9 @@
                         <i class="fa fa-caret-down"></i>
                     </button>
                     <div class="dropdown-content">
-                        <a href="#">Epic games</a>
-                        <a href="#">Xbox</a>
-                        <a href="#">Ps4</a>
+                        <a href="epic.php">Epic games</a>
+                        <a href="xbox.php">Xbox</a>
+                        <a href="ps4.php">Ps4</a>
                         <a href="#">Vbucks</a>
                     </div>
                 </div>

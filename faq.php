@@ -36,12 +36,10 @@
         <div class="container">
             <!-- Accordion Starts-->
             <div class="acc">
-                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <h3>How fast will I get my order?</h3>
                 <div class="content">
                     <div class="content-inner">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Usually, orders will be done within 5-20 minutes. Our maximum delivery time is 2 hours, but usually it will take no longer than 30 minutes.</p>
                     </div>
                 </div>
             </div>
@@ -49,12 +47,10 @@
         <div class="container">
             <!-- Accordion Starts-->
             <div class="acc">
-                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <h3>Are you legit?</h3>
                 <div class="content">
                     <div class="content-inner">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Yes, we are legit. You can search on Twitter #CDSlegit. Also Saft has been selling for multiple months and has over 500 purchases..</p>
                     </div>
                 </div>
             </div>
@@ -62,12 +58,10 @@
         <div class="container">
             <!-- Accordion Starts-->
             <div class="acc">
-                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <h3>What will happen as soon as I paid?</h3>
                 <div class="content">
                     <div class="content-inner">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book.</p>
+                        <p>As soon as you paid, we will see your order and do it for you within 5-20 minutes. If the order wasn't done within 30 minutes, please send me a message on Twitter or Instagram.</p>
                     </div>
                 </div>
             </div>
@@ -75,12 +69,10 @@
         <div class="container">
             <!-- Accordion Starts-->
             <div class="acc">
-                <h3>Question 1: What is Lorem Ipsum?</h3>
+                <h3>No Refunds / No Replacements</h3>
                 <div class="content">
                     <div class="content-inner">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book.</p>
+                        <p>No Refunds / No Replacements since all codes are checked before sending out. For products which require account login information we also will not provide any refunds since we apply the product to the account which you give us in order details.</p>
                     </div>
                 </div>
             </div>

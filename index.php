@@ -309,7 +309,6 @@
         </div>
     </div>
 </div>
-<br>
 
 <footer>
     <h2 class="footer-copyright"> © Made by @NotRedice & @NotSaft</h2>
