@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c743582-2449-4ac2-99aa-3f3ffc1f6176" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/epic.php" beforeDir="false" afterPath="$PROJECT_DIR$/epic.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faq.php" beforeDir="false" afterPath="$PROJECT_DIR$/faq.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps4.php" beforeDir="false" afterPath="$PROJECT_DIR$/ps4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xbox.php" beforeDir="false" afterPath="$PROJECT_DIR$/xbox.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +86,7 @@
       <workItem from="1575494298319" duration="903000" />
       <workItem from="1575495217983" duration="28000" />
       <workItem from="1575495258876" duration="5865000" />
-      <workItem from="1575574740459" duration="1892000" />
+      <workItem from="1575574740459" duration="2161000" />
     </task>
     <servers />
   </component>
