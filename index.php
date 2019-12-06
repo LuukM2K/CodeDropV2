@@ -37,7 +37,6 @@
                     </div>
                 </div>
                 <li><a href="faq.php">FAQ</a></li>
-                <li>Socials</li>
                 <li>Contact</li>
                 <li><a style="color: #7289da" target="_blank" href="https://discord.gg/codedrop">Discord</a></li>
             </ul>

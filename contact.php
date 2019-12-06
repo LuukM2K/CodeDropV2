@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <meta charset="UTF-8">
     <link href="css/main.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
@@ -12,6 +14,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="icon" href="images/codedrop-logo.png">
     <link href="css/dropdown.css" rel="stylesheet">
+    <link href="css/CONTACT.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css"
+          integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
 </head>
 <body>
 <div id="particles-js">
@@ -45,76 +50,37 @@
             <h2 class="countdown-title">Time till CodeDrop Christmas party: </h2>
             <p id="countdown">20d 22h 18m 45s </p>
         </div>
-        <div class="ui container">
-            <div class="ui four column grid">
-                <div class="row">
-                    <div class="column" style="margin-bottom: 25px;">
-                        <div class="ui card" style="background-color: #1e1e1e">
-                            <div class="image">
-                                <img src="images/eon.png"/>
-                            </div>
-                            <div class="content">
-                                <a class="header" style="color: #e1e1e1">Mini Eon skin + 500 Vbucks</a>
-                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €14.99
-                                </div>
-                            </div>
-                            <div class="extra content">
-                                <button data-shoppy-product="RZzxsNy" class="fluid ui button"
-                                        style="background-color: #FF4181; color: #e1e1e1">Buy
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column" style="margin-bottom: 25px;">
-                        <div class="ui card" style="background-color: #1e1e1e">
-                            <div class="image">
-                                <img src="images/eon.png"/>
-                            </div>
-                            <div class="content">
-                                <a class="header" style="color: #e1e1e1">Mini Eon skin + 2000 Vbucks</a>
-                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €59,99
-                                </div>
-                            </div>
-                            <div class="extra content">
-                                <button data-shoppy-product="BfnOWVK" class="fluid ui button"
-                                        style="background-color: #FF4181; color: #e1e1e1">Buy
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="column" style="margin-bottom: 25px;">
-                        <div class="ui card" style="background-color: #1e1e1e">
-                            <div class="image">
-                                <img src="images/spiderknight.png"/>
-                            </div>
-                            <div class="content">
-                                <a class="header" style="color: #e1e1e1">Spider knight + 2000 vbucks</a>
-                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €42
-                                </div>
-                            </div>
-                            <div class="extra content">
-                                <button data-shoppy-product="5TRQSmq" class="fluid ui button"
-                                        style="background-color: #FF4181; color: #e1e1e1">Buy
-                                </button>
-                            </div>
-                        </div>
-                    </div>
+        <section id="contact">
+            <h1 class="section-header">CONTACT</h1>
+            <div class="contact-wrapper">
+
+                <div class="direct-contact-container">
+                    <ul class="contact-list">
+                        <li class="list-item"><i class="fab fa-discord fa-2x"><span class="contact-text phone"><a
+                                        href="https://discordapp.com/invite/codedrop">Saft#6666</a></span></i></li>
+
+                        <li class="list-item"><i class="fab fa-discord fa-2x"><span class="contact-text phone"><a
+                                            href="https://discordapp.com/invite/codedrop">Redice#0001</a></span></i></li>
+
+                        <li class="list-item"><i class="fa fa-envelope fa-2x"><span class="contact-text gmail"><a
+                                            href="mailto:Codedropsells@gmail.com" title="Send me an email">Codedropsells@gmail.com</a></span></i>
+                        </li>
+                    </ul>
+                    <hr>
+                    <ul class="social-media-list">
+                        <li><a href="https://twitter.com/CodeDropShop" target="_blank" class="contact-icon">
+                                <i class="fab fa-twitter" aria-hidden="true"></i></a>
+                        </li>
+                        <li><a href="https://www.instagram.com/codedropshop/" target="_blank" class="contact-icon">
+                                <i class="fab fa-instagram" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+                    <hr>
+                    <div class="copyright">&copy; ALL OF THE RIGHTS RESERVED</div>
                 </div>
             </div>
-
-        </div>
+        </section>
     </div>
-</div>
-<br>
-<br>
-<br>
-<footer>
-    <h2 class="footer-copyright"> © Made by @NotRedice & @NotSaft</h2>
-</footer>
-</div>
 </div>
 <script src="assets/main.js" rel="script"></script>
 <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
@@ -152,5 +118,7 @@
     });
 
 </script>
+
 </body>
 </html>
+
