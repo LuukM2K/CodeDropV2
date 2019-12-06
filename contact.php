@@ -82,6 +82,9 @@
         </section>
     </div>
 </div>
+<footer>
+    <h2 class="footer-copyright"> © Made by @NotRedice & @Saft69</h2>
+</footer>
 <script src="assets/main.js" rel="script"></script>
 <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 <script src="https://shoppy.gg/api/embed.js"></script>

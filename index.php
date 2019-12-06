@@ -194,163 +194,161 @@
                         </div>
                     </div>
 
-                    <div class="column" style="margin-bottom: 25px;min-height: 400px"
-                    ">
-                    <div class="ui card" style="background-color: #1e1e1e">
-                        <div class="image">
-                            <img src="images/spiderknight.png"/>
-                        </div>
-                        <div class="content">
-                            <a class="header" style="color: #e1e1e1">Spider knight + 2000 vbucks</a>
-                            <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                €42
+                    <div class="column" style="margin-bottom: 25px;min-height: 400px">
+                        <div class="ui card" style="background-color: #1e1e1e">
+                            <div class="image">
+                                <img src="images/spiderknight.png"/>
+                            </div>
+                            <div class="content">
+                                <a class="header" style="color: #e1e1e1">Spider knight + 2000 vbucks</a>
+                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
+                                    €42
+                                </div>
+                            </div>
+                            <div class="extra content">
+                                <button data-shoppy-product="5TRQSmq" class="fluid ui button"
+                                        style="background-color: #FF4181; color: #e1e1e1">Buy
+                                </button>
                             </div>
                         </div>
-                        <div class="extra content">
-                            <button data-shoppy-product="5TRQSmq" class="fluid ui button"
-                                    style="background-color: #FF4181; color: #e1e1e1">Buy
-                            </button>
+                    </div>
+                    <div class="column" style="margin-bottom: 25px;">
+                        <div class="ui card" style="background-color: #1e1e1e">
+                            <div class="image">
+                                <img src="images/versa.png"/>
+                            </div>
+                            <div class="content">
+                                <a class="header" style="color: #e1e1e1">Neo Versa + 500 V-Bucks(EU)</a>
+                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
+                                    €14,99
+                                </div>
+                            </div>
+                            <div class="extra content">
+                                <button data-shoppy-product="dLbn5Nk" class="fluid ui button"
+                                        style="background-color: #FF4181; color: #e1e1e1">Buy
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column" style="margin-bottom: 25px;">
+                        <div class="ui card" style="background-color: #1e1e1e">
+                            <div class="image">
+                                <img src="images/versa.png"/>
+                            </div>
+                            <div class="content">
+                                <a class="header" style="color: #e1e1e1">Neo Versa + 2000 V-Bucks(EU)</a>
+                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
+                                    €19,99
+                                </div>
+                            </div>
+                            <div class="extra content">
+                                <button data-shoppy-product="13kaIIm" class="fluid ui button"
+                                        style="background-color: #FF4181; color: #e1e1e1">Buy
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column" style="margin-bottom: 25px;">
+                        <div class="ui card" style="background-color: #1e1e1e">
+                            <div class="image">
+                                <img src="images/BOMBER.png"/>
+                            </div>
+                            <div class="content">
+                                <a class="header" style="color: #e1e1e1">Royale Bomber & 500 V-Bucks(EU)</a>
+                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
+                                    €24,99
+                                </div>
+                            </div>
+                            <div class="extra content">
+                                <button data-shoppy-product="kTGcrh9" class="fluid ui button"
+                                        style="background-color: #FF4181; color: #e1e1e1">Buy
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column" style="margin-bottom: 25px;">
+                        <div class="ui card" style="background-color: #1e1e1e">
+                            <div class="image">
+                                <img src="images/versaUS.png"/>
+                            </div>
+                            <div class="content">
+                                <a class="header" style="color: #e1e1e1">Neo Versa 500 V-Bucks PS4 (US)</a>
+                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
+                                    €14,99
+                                </div>
+                            </div>
+                            <div class="extra content">
+                                <button data-shoppy-product="Szzu34D" class="fluid ui button"
+                                        style="background-color: #FF4181; color: #e1e1e1">Buy
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column" style="margin-bottom: 25px;">
+                        <div class="ui card" style="background-color: #1e1e1e">
+                            <div class="image">
+                                <img src="images/versaUS.png"/>
+                            </div>
+                            <div class="content">
+                                <a class="header" style="color: #e1e1e1">Neo Versa 2000 V-Bucks PS4 (US)</a>
+                                <div class="description" style="color: #e1e1e1;font-size: 22px;">
+                                    €19,99
+                                </div>
+                            </div>
+                            <div class="extra content">
+                                <button data-shoppy-product="Szzu34D" class="fluid ui button"
+                                        style="background-color: #FF4181; color: #e1e1e1">Buy
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="column" style="margin-bottom: 25px;">
-                    <div class="ui card" style="background-color: #1e1e1e">
-                        <div class="image">
-                            <img src="images/versa.png"/>
-                        </div>
-                        <div class="content">
-                            <a class="header" style="color: #e1e1e1">Neo Versa + 500 V-Bucks(EU)</a>
-                            <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                €14,99
-                            </div>
-                        </div>
-                        <div class="extra content">
-                            <button data-shoppy-product="dLbn5Nk" class="fluid ui button"
-                                    style="background-color: #FF4181; color: #e1e1e1">Buy
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="column" style="margin-bottom: 25px;">
-                    <div class="ui card" style="background-color: #1e1e1e">
-                        <div class="image">
-                            <img src="images/versa.png"/>
-                        </div>
-                        <div class="content">
-                            <a class="header" style="color: #e1e1e1">Neo Versa + 2000 V-Bucks(EU)</a>
-                            <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                €19,99
-                            </div>
-                        </div>
-                        <div class="extra content">
-                            <button data-shoppy-product="13kaIIm" class="fluid ui button"
-                                    style="background-color: #FF4181; color: #e1e1e1">Buy
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="column" style="margin-bottom: 25px;">
-                    <div class="ui card" style="background-color: #1e1e1e">
-                        <div class="image">
-                            <img src="images/BOMBER.png"/>
-                        </div>
-                        <div class="content">
-                            <a class="header" style="color: #e1e1e1">Royale Bomber & 500 V-Bucks(EU)</a>
-                            <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                €24,99
-                            </div>
-                        </div>
-                        <div class="extra content">
-                            <button data-shoppy-product="kTGcrh9" class="fluid ui button"
-                                    style="background-color: #FF4181; color: #e1e1e1">Buy
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="column" style="margin-bottom: 25px;">
-                    <div class="ui card" style="background-color: #1e1e1e">
-                        <div class="image">
-                            <img src="images/versaUS.png"/>
-                        </div>
-                        <div class="content">
-                            <a class="header" style="color: #e1e1e1">Neo Versa 500 V-Bucks PS4 (US)</a>
-                            <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                €14,99
-                            </div>
-                        </div>
-                        <div class="extra content">
-                            <button data-shoppy-product="Szzu34D" class="fluid ui button"
-                                    style="background-color: #FF4181; color: #e1e1e1">Buy
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <div class="column" style="margin-bottom: 25px;">
-                    <div class="ui card" style="background-color: #1e1e1e">
-                        <div class="image">
-                            <img src="images/versaUS.png"/>
-                        </div>
-                        <div class="content">
-                            <a class="header" style="color: #e1e1e1">Neo Versa 2000 V-Bucks PS4 (US)</a>
-                            <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                €19,99
-                            </div>
-                        </div>
-                        <div class="extra content">
-                            <button data-shoppy-product="Szzu34D" class="fluid ui button"
-                                    style="background-color: #FF4181; color: #e1e1e1">Buy
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </div>
-</div>
-</div>
+    <br>
 
+
+    <script src="assets/main.js" rel="script"></script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="https://shoppy.gg/api/embed.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"></script>
+    <script>var countDownDate = new Date("Dec 23, 2019 19:00:00").getTime();
+        var x = setInterval(function () {
+            var now = new Date().getTime();
+            var distance = countDownDate - now;
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+                + minutes + "m " + seconds + "s ";
+
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("countdown").innerHTML = "EXPIRED";
+            }
+        }, 1000);
+    </script>
+
+    <script>
+        particlesJS.load('particles-js', 'assets/particles.json', function () {
+        });
+
+    </script>
+</div>
 <footer>
-    <h2 class="footer-copyright"> © Made by @NotRedice & @NotSaft</h2>
+    <h2 class="footer-copyright"> © Made by @NotRedice & @Saft69</h2>
 </footer>
-</div>
-</div>
-<script src="assets/main.js" rel="script"></script>
-<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<script src="https://shoppy.gg/api/embed.js"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
-<script>var countDownDate = new Date("Dec 23, 2019 19:00:00").getTime();
-    var x = setInterval(function () {
-        var now = new Date().getTime();
-        var distance = countDownDate - now;
-        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-        document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
-            + minutes + "m " + seconds + "s ";
-
-        if (distance < 0) {
-            clearInterval(x);
-            document.getElementById("countdown").innerHTML = "EXPIRED";
-        }
-    }, 1000);
-</script>
-
-<script>
-    particlesJS.load('particles-js', 'assets/particles.json', function () {
-    });
-
-</script>
 </body>
 </html>
 <?php
