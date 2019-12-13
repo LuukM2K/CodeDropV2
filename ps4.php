@@ -56,11 +56,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Neo Versa + 500 V-Bucks(EU)</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €14,99
+                                    €10,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="dLbn5Nk" class="fluid ui button"
+                                <button data-selly-product="88a9ca0b" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -78,7 +78,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="13kaIIm" class="fluid ui button"
+                                <button data-selly-product="53041012" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -96,7 +96,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="kTGcrh9" class="fluid ui button"
+                                <button data-selly-product="e63cbd50" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -110,11 +110,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Neo Versa 500 V-Bucks PS4 (US)</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €14,99
+                                    €10,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="Szzu34D" class="fluid ui button"
+                                <button data-selly-product="f37c1db8" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -132,7 +132,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="Szzu34D" class="fluid ui button"
+                                <button data-selly-product="6995670d" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -149,7 +149,7 @@
 </footer>
 <script src="assets/main.js" rel="script"></script>
 <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<script src="https://shoppy.gg/api/embed.js"></script>
+<script src="https://embed.selly.io"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>

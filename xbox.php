@@ -60,7 +60,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="RZzxsNy" class="fluid ui button"
+                                <button data-selly-product="adfeff4f" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -78,7 +78,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="BfnOWVK" class="fluid ui button"
+                                <button data-selly-product="d67c9b7e" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -90,13 +90,13 @@
                                 <img src="images/spiderknight.png"/>
                             </div>
                             <div class="content">
-                                <a class="header" style="color: #e1e1e1">Spider knight + 2000 vbucks</a>
+                                <a class="header" style="color: #e1e1e1">Spider knight Outfit + 2000 vbucks</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €42
+                                    €30,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="5TRQSmq" class="fluid ui button"
+                                <button data-selly-product="6676d2d6" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -104,17 +104,15 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </div>
 <footer>
     <h2 class="footer-copyright"> © Made by @NotRedice & @Saft69</h2>
 </footer>
-
+<script src="https://embed.selly.io"></script>
 <script src="assets/main.js" rel="script"></script>
 <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<script src="https://shoppy.gg/api/embed.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>

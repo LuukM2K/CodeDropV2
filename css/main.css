@@ -7,7 +7,7 @@ body {
 
 #particles-js {
     background: #121212;
-    height: 208vh;
+    height: 1450px;
     width: 100vw;
 }
 
@@ -146,4 +146,14 @@ footer {
     color: #FF4181;
     font-size: 24px;
     font-weight: 700;
+}
+
+.secret {
+    float: right;
+    margin-right: 24px;
+    opacity: 0.01;
+    color: #121212;
+}
+.secret:hover {
+    display: flex;
 }

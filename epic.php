@@ -56,11 +56,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">WONDER OUTFIT Code</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €27,99
+                                    €24,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="Kzd1CyR" class="fluid ui button"
+                                <button data-selly-product="6d0c0cbb" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -78,7 +78,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="1fTq7Sd" class="fluid ui button"
+                                <button data-selly-product="c6280b1d" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -92,11 +92,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Minty pickaxe</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €19,99
+                                    €17,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="f21XK6e" class="fluid ui button"
+                                <button data-selly-product="3597b8d3" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -114,7 +114,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="yhAFcib" class="fluid ui button"
+                                <button data-selly-product="yhAFcib" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -132,7 +132,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="yhAFcib" class="fluid ui button"
+                                <button data-selly-product="3c170b01" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -147,9 +147,9 @@
 <footer>
     <h2 class="footer-copyright"> © Made by @NotRedice & @Saft69</h2>
 </footer>
+<script src="https://embed.selly.io"></script>
 <script src="assets/main.js" rel="script"></script>
 <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<script src="https://shoppy.gg/api/embed.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>

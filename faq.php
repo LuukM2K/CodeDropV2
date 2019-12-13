@@ -47,35 +47,32 @@
         <div class="container">
             <!-- Accordion Starts-->
             <div class="acc">
-                <h3>How fast will I get my order?</h3>
+                <h3>I completed my order. now what?</h3>
                 <div class="content">
                     <div class="content-inner">
-                        <p>Usually, orders will be done within 5-20 minutes. Our maximum delivery time is 2 hours, but
-                            usually it will take no longer than 30 minutes.</p>
+                        <p>We will handle the purchase as soon as we possibly can. When we see the order coming in we will get the code and send it to you. </p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
-            <!-- Accordion Starts-->
             <div class="acc">
-                <h3>Are you legit?</h3>
+                <h3>Are we legit?</h3>
                 <div class="content">
                     <div class="content-inner">
                         <p>Yes, we are legit. You can search on Twitter #CDSlegit. Also Saft has been selling for
-                            multiple months and has over 500 purchases..</p>
+                            multiple months and has over 500 purchases.</p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="container">
-            <!-- Accordion Starts-->
             <div class="acc">
-                <h3>What will happen as soon as I paid?</h3>
+                <h3>I didnt receive my order and it has been 2 days!</h3>
                 <div class="content">
                     <div class="content-inner">
-                        <p>As soon as you paid, we will see your order and do it for you within 5-20 minutes. If the
-                            order wasn't done within 30 minutes, please send me a message on Twitter or Instagram.</p>
+                        <p>To be sure we get your message, please email us. this is way more clearer then Twitter and or Discord DMS!<br>
+                            <strong>E-mail: Codedropsells@gmail.com</strong></p>
                     </div>
                 </div>
             </div>
