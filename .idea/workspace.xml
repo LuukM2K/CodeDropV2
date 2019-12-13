@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c743582-2449-4ac2-99aa-3f3ffc1f6176" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/comingsoon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/CD.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/meandsaft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/saftandredice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/saftgif.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/sexygif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/sunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/toasterman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/secret/wooftmcwoof.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xboxPic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/epic.php" beforeDir="false" afterPath="$PROJECT_DIR$/epic.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faq.php" beforeDir="false" afterPath="$PROJECT_DIR$/faq.php" afterDir="false" />
@@ -17,7 +29,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -94,6 +107,13 @@
       <workItem from="1575495217983" duration="28000" />
       <workItem from="1575495258876" duration="5865000" />
       <workItem from="1575574740459" duration="10560000" />
+      <workItem from="1575646153482" duration="8390000" />
+      <workItem from="1575740130238" duration="709000" />
+      <workItem from="1575821873543" duration="2134000" />
+      <workItem from="1575850338889" duration="7325000" />
+      <workItem from="1575921245980" duration="253000" />
+      <workItem from="1576008149348" duration="584000" />
+      <workItem from="1576094538570" duration="4437000" />
     </task>
     <servers />
   </component>

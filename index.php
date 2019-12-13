@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="author" content="@saft69 & @NotRedice">
+    <meta name="description" content="Your all in one fortnite exclusive shop">
+    <meta name="keywords"
+          content="Glow, Skin, Fortnite, Fortnitecheap, exclusives, Wonder, Eoncheap, eon cheap, xbox, ps4, epicgames, epic games">
     <link href="css/main.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css" rel="stylesheet"
@@ -14,7 +18,7 @@
     <link href="css/dropdown.css" rel="stylesheet">
 </head>
 <body>
-<div id="particles-js">
+<div id="particles-js" style="height: 2000px">
     <div class="main-header">
         <div class="main-content">
             <a href="index.php"><img class="header-img" onclick="" src="images/christmastlogo.png" width="120"
@@ -36,8 +40,8 @@
                         <a href="#">Vbucks</a>
                     </div>
                 </div>
-                <li><a href="faq.php">FAQ</a></li>
-                <li><a href="contact.php">Contact</a></li>
+                <li><a style="color: #e1e1e1" href="faq.php">FAQ</a></li>
+                <li><a style="color: #e1e1e1" href="contact.php">Contact</a></li>
                 <li><a style="color: #7289da" target="_blank" href="https://discord.gg/codedrop">Discord</a></li>
             </ul>
         </div>
@@ -56,11 +60,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Mini eon skin + 500 vbucks</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €14,99
+                                    Soon
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="RZzxsNy" class="fluid ui button"
+                                <button data-selly-product="adfeff4f" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -78,7 +82,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="iZzWE9B" class="fluid ui button"
+                                <button data-selly-product="458f07e3" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -92,11 +96,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">WONDER OUTFIT Code</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €27,99
+                                    €24,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="Kzd1CyR" class="fluid ui button"
+                                <button data-selly-product="6d0c0cbb" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -114,7 +118,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="1fTq7Sd" class="fluid ui button"
+                                <button data-selly-product="c6280b1d" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -133,7 +137,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="BfnOWVK" class="fluid ui button"
+                                <button data-selly-product="d67c9b7e" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -147,11 +151,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Minty pickaxe</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €19,99
+                                    €17,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="f21XK6e" class="fluid ui button"
+                                <button data-selly-product="3597b8d3" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -160,7 +164,7 @@
                     <div class="column" style="margin-bottom: 25px;">
                         <div class="ui card" style="background-color: #1e1e1e">
                             <div class="image">
-                                <img src="images/stealth.png"/>
+                                <img src="images/stealth.png" alt="stealth"/>
                             </div>
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Nvidia Reflex Bundle + 2000</a>
@@ -169,7 +173,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="yhAFcib" class="fluid ui button"
+                                <button data-selly-product="3c170b01" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -187,7 +191,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="yhAFcib" class="fluid ui button"
+                                <button data-selly-product="4affbacb" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -200,13 +204,13 @@
                                 <img src="images/spiderknight.png"/>
                             </div>
                             <div class="content">
-                                <a class="header" style="color: #e1e1e1">Spider knight + 2000 vbucks</a>
+                                <a class="header" style="color: #e1e1e1">Spider knight outfit + 2000 vbucks</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €42
+                                    €30.99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="5TRQSmq" class="fluid ui button"
+                                <button data-selly-product="6676d2d6" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -220,11 +224,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Neo Versa + 500 V-Bucks(EU)</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €14,99
+                                    €10,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="dLbn5Nk" class="fluid ui button"
+                                <button data-selly-product="88a9ca0b" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -242,7 +246,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="13kaIIm" class="fluid ui button"
+                                <button data-selly-product="53041012" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -260,7 +264,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="kTGcrh9" class="fluid ui button"
+                                <button data-selly-product="kTGcrh9" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -274,11 +278,11 @@
                             <div class="content">
                                 <a class="header" style="color: #e1e1e1">Neo Versa 500 V-Bucks PS4 (US)</a>
                                 <div class="description" style="color: #e1e1e1;font-size: 22px;">
-                                    €14,99
+                                    €10,99
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="Szzu34D" class="fluid ui button"
+                                <button data-selly-product="f37c1db8" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -296,7 +300,7 @@
                                 </div>
                             </div>
                             <div class="extra content">
-                                <button data-shoppy-product="Szzu34D" class="fluid ui button"
+                                <button data-selly-product="6995670d" class="fluid ui button"
                                         style="background-color: #FF4181; color: #e1e1e1">Buy
                                 </button>
                             </div>
@@ -305,13 +309,15 @@
                 </div>
             </div>
         </div>
+        <a class="secret" href="secret.php">Secret file</a>
+
     </div>
     <br>
 
 
     <script src="assets/main.js" rel="script"></script>
     <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-    <script src="https://shoppy.gg/api/embed.js"></script>
+    <script src="https://embed.selly.io"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
             integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
             crossorigin="anonymous"></script>
@@ -351,4 +357,3 @@
 </footer>
 </body>
 </html>
-<?php
